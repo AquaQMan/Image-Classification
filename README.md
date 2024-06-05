@@ -1,6 +1,6 @@
 # The Problem
 
-Using the mnist data set, this project sets out to create a neural network that can predict the difference between some of the most difficult digits in 1 and 7.
+Using the mnist data set, this project sets out to create a neural network that can predict the difference between some of the most difficult digits in 1 and 7. The mnist documentation can be found here: https://www.tensorflow.org/datasets/catalog/mnist.
 
 # Steps taken
 
